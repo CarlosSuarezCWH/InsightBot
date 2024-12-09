@@ -1,0 +1,26 @@
+# FastAPI y servidor ASGI
+fastapi==0.95.0
+uvicorn==0.22.0
+
+# Manejo de archivos y PDF
+PyPDF2==3.0.1
+
+# Manejo de datos y FAISS
+faiss-cpu==1.7.3
+numpy==1.23.5
+
+# Modelos de lenguaje y servicios relacionados
+transformers==4.35.0
+torch==2.0.1
+
+# Utilidades para manejo de entornos y archivos
+python-dotenv==1.0.0
+
+# Cliente para conexión con modelos externos
+requests==2.31.0
+
+# Traducción (opcional, dependiendo de implementación)
+googletrans==4.0.0-rc1
+
+# Otros (depende de las necesidades específicas del proyecto)
+typing-extensions==4.5.0
