@@ -24,3 +24,4 @@ googletrans==4.0.0-rc1
 
 # Otros (depende de las necesidades específicas del proyecto)
 typing-extensions==4.5.0
+sentence-transformers
