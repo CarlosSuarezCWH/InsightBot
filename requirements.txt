@@ -29,3 +29,4 @@ pdfplumber
 python-multipart
 sentencepiece
 sacremoses
+opencv-python
