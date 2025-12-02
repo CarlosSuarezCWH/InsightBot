@@ -3,8 +3,6 @@ import numpy as np
 import faiss
 import os
 from app.models.ollama_model import OllamaModel
-from app.models.gpt_neox_model import GPTNeoXModel
-from app.models.llama_model import LLaMAModel
 
 
 class QueryService:
